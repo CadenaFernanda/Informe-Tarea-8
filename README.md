@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84587120/131605514-3addd34c-54c5-4d92-931e-ae260dec513a.png)
+![image](https://user-images.githubusercontent.com/84587120/131760002-1a7c2e57-531b-4d34-9953-0ac2e681dcb9.png)
 
 # Informe-Tarea-8
 
