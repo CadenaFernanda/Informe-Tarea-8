@@ -244,11 +244,19 @@ Ejercicos cápitulo 16:
 
 a. 5 + j12
 
+![image](https://user-images.githubusercontent.com/84587120/131775629-8f2ce968-3778-4ef3-adc6-9749ec8fa82d.png)
+
 b. 9 - j6 
+
+![image](https://user-images.githubusercontent.com/84587120/131775738-aa7e8dd1-9c89-448b-aa25-f16a9e5743db.png)
 
 c. -8 + j15
 
+![image](https://user-images.githubusercontent.com/84587120/131775766-c7901a77-6af7-4aa7-b587-5ece71e96fb9.png)
+
 d. -10 - j4
+
+![image](https://user-images.githubusercontent.com/84587120/131776002-994d7226-2158-4d18-ac4e-31382881950a.png)
 
 3. Grafique cada uno de los siguientes valores en el plano complejo:
 
@@ -264,15 +272,43 @@ d. 10∠135°
 
 ![image](https://user-images.githubusercontent.com/84587091/131766645-b8b52608-9f48-41aa-b9e1-adae8a187973.png)
 
+a) ![image](https://user-images.githubusercontent.com/84587120/131776199-b8ff4e7d-e6e2-4741-9707-a566fdcbd471.png)
+
+b) ![image](https://user-images.githubusercontent.com/84587120/131776275-bb76464e-803a-424f-a7df-ce8d3e5fd0d5.png)
+
+c) ![image](https://user-images.githubusercontent.com/84587120/131776325-fec565e7-ee8f-4f11-bde1-3ef36c976fcf.png)
+
+d) ![image](https://user-images.githubusercontent.com/84587120/131776409-5dc5762b-8de3-4638-8744-e4301b437044.png)
+ 
+e) ![image](https://user-images.githubusercontent.com/84587120/131776548-c676d89b-3f4d-493e-878c-1ad5e2908033.png)
+
+f) ![image](https://user-images.githubusercontent.com/84587120/131776587-2d9642ab-15dc-4a2e-b362-b108dc7c0fab.png)
+
 7. Reduzca cada corriente siguiente a forma polar:
 
 ![image](https://user-images.githubusercontent.com/84587091/131766673-7d270a81-c078-46d9-b742-4d8704a28bc1.png)
+
+a) ![image](https://user-images.githubusercontent.com/84587120/131776720-a488aec6-b64a-452b-bf2f-5be329a7c3fc.png)
+
+b) ![image](https://user-images.githubusercontent.com/84587120/131776794-a1164571-73e7-4df4-af1b-b116907fd562.png)
+
+C) ![image](https://user-images.githubusercontent.com/84587120/131776919-888ee87a-7887-4b42-a929-50ebced8a49f.png)
+
+16 - 2 Números complejos en análisis de ca
 
 9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
 
 ![image](https://user-images.githubusercontent.com/84587091/131766718-437471e0-6338-426b-b15a-07534f5522db.png)
 
+a) ![image](https://user-images.githubusercontent.com/84587120/131777069-e936de7b-7671-4a0e-a90b-b9d9c7017272.png)
+
+b) ![image](https://user-images.githubusercontent.com/84587120/131777082-179b38f8-7a63-4d57-933b-722cbc53d9e0.png)
+
 11. Repita el problema 10 para v = e1 - e2.
+
+![image](https://user-images.githubusercontent.com/84587120/131777141-550a671c-97b0-4d44-813c-ccbaf0b2f003.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131777187-b44f4098-5b67-47af-9798-e1b1769ad7c3.png)
 
 13. Para la figura 16-50, i1 = 25 sen (wt + 36°) mA e i2 = 40 cos (wt - 10°) mA.
 
@@ -280,13 +316,21 @@ d. 10∠135°
 
 a. Determine los fasores I1, I2 e IT.
 
+![image](https://user-images.githubusercontent.com/84587120/131777302-92801afd-774b-4a81-862b-59050a57227d.png)
+
 b. Determine la ecuación para iT en el dominio del tiempo.
+
+![image](https://user-images.githubusercontent.com/84587120/131777330-f5c8f5bb-adf4-4612-9907-e6b4f96e1f18.png)
 
 15. Para la figura 16-18, i1 = 7 sen wt mA, i2 = 4 sen (wt - 90°) mA e i3 = 6 sen (wt + 90°) mA.
 
 a. Determine los fasores I1, I2, I3 e IT
 
+![image](https://user-images.githubusercontent.com/84587120/131777376-2a6c80e7-5783-4ac1-9f8f-5c890f34ec58.png)
+
 b. Determine la ecuación para iT en el dominio del tiempo.
+
+![image](https://user-images.githubusercontent.com/84587120/131777393-3f0b3c5b-aeb3-4f98-8a98-e0b7b2e11e92.png)
 
 17. Para la figura 16-52, R = 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
 
@@ -294,17 +338,31 @@ b. Determine la ecuación para iT en el dominio del tiempo.
 
 a. v = 120 sen wt V, i = _____
 
+![image](https://user-images.githubusercontent.com/84587120/131777477-e1623502-188d-44bc-a3d2-d069483b4db7.png)
+
 b. v = 120 sen (wt + 27°) V, i = _____
+
+![image](https://user-images.githubusercontent.com/84587120/131777492-5c300b35-3112-4f2f-abcd-4e5cb84ca14c.png)
 
 c. i = 17 sen (wt - 56°) mA, v = _____
 
+![image](https://user-images.githubusercontent.com/84587120/131777540-d9288e4f-4593-495e-9227-149e0b59af8b.png)
+
 d. i = -17 cos (wt - 67°) uA, v = _____
+
+![image](https://user-images.githubusercontent.com/84587120/131777554-bf173caa-40bf-4be9-8300-f0977fbe2867.png)
 
 19. Dos resistores R1 = 10 kΩ y R2 = 12.5 kΩ están en serie. Si i = 14.7 sen (qt + 39°) mA,
 
 a. ¿Cuánto valen vR1 y vR2?
 
+![image](https://user-images.githubusercontent.com/84587120/131777576-26b64c29-80bc-4cca-af0e-115ecb0c3251.png)
+
 b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
+
+![image](https://user-images.githubusercontent.com/84587120/131777617-b97bba04-86bd-4394-a193-d30d3e116f2e.png)
+
+LAS DOS EXPRESIONES SON SIMILARES.
 
 21. Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
 
@@ -312,11 +370,19 @@ b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
 
 a. vL = 10 sen (qt + 60°) V, iL = _____
 
+![image](https://user-images.githubusercontent.com/84587120/131777704-fea7d862-268e-4497-86f4-fcdda9f7dbae.png)
+
 b. vL = 10 sen (qt - 15°) V, iL = _____
+
+![image](https://user-images.githubusercontent.com/84587120/131777740-fd4a16d2-4c7d-4f8a-bccb-f8e4ca568b9d.png)
 
 c. iL = 5 cos (qt - 60°) A, vL = _____
 
+![image](https://user-images.githubusercontent.com/84587120/131777779-b2e478f2-ca86-41ec-bcbe-c40ca832b072.png)
+
 d. iL = 5 sen (qt + 10°) A, vL = _____
+
+![image](https://user-images.githubusercontent.com/84587120/131777789-30d004a5-1c2a-4b82-bc34-b813ce8b49a2.png)
 
 23. Para la figura 16-53, e = 100 sen qt y L = 0.5 H. Determine iL a. . .
 
@@ -324,9 +390,15 @@ d. iL = 5 sen (qt + 10°) A, vL = _____
 
 a. 60 Hz 
 
+![image](https://user-images.githubusercontent.com/84587120/131777813-e9808b34-bd90-43e9-964c-247c6164368f.png)
+
 b. 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/84587120/131777845-6e14434d-666e-4fdd-8315-2607ec34e861.png)
+
 c. 500 rad/s
+
+![image](https://user-images.githubusercontent.com/84587120/131777869-7b18766f-31db-4c44-b3ed-55a66a658700.png)
 
 25. Para la figura 16-53, si
 
@@ -334,15 +406,25 @@ c. 500 rad/s
 
 a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?
 
+![image](https://user-images.githubusercontent.com/84587120/131777982-35ee6751-1e7d-4b62-a47f-1fc18a6fa74d.png)
+
 b. iL = 250 sen (wt + 40°) uA, vL = 40 sen (wt + v) V, y f = 500 kHz, ¿cuál es el valor de L y v?
+
+![image](https://user-images.githubusercontent.com/84587120/131778005-ddf25b56-56a7-4fa2-9c02-004de04869d3.png)
 
 27. ¿Cuál es la reactancia de un capacitor de 5 uF a. . .
 
 a. 60 Hz 
 
+![image](https://user-images.githubusercontent.com/84587120/131778070-f9e9b6a5-5a21-4d84-b4af-2cf5034b2543.png)
+
 b. 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/84587120/131778139-997fc8ef-ca00-41d4-bbb5-acdadafc0c33.png)
+
 c. 500 rad/s
+
+![image](https://user-images.githubusercontent.com/84587120/131778155-23cd94a1-7caf-44d7-ac40-3ce55c7b6f2c.png)
 
 29. Para la figura 16-54, C = 50 uF.
 
@@ -350,13 +432,21 @@ c. 500 rad/s
 
 a. vC = 100 sen377t V, ¿cuánto vale iC?
 
+![image](https://user-images.githubusercontent.com/84587120/131778296-b6070b35-da2d-4df1-aa18-b4a4cf3c74a5.png)
+
 b. iC = 10 sen(2π x 400t - 60°), ¿cuánto vale vC?
+
+![image](https://user-images.githubusercontent.com/84587120/131778309-23c474ef-51dd-499c-a987-0ebffc270c77.png)
 
 16-7 El concepto de impedancia
 
 31. Determine la impedancia de cada elemento de circuito de la figura 16-55.
 
 ![image](https://user-images.githubusercontent.com/84587091/131768291-7387ea92-7d70-48ce-8bc6-f60031dabee8.png)
+
+a) ![image](https://user-images.githubusercontent.com/84587120/131778379-2693b2e6-dc9c-4413-baa7-9475c2c662b2.png)
+
+b) ![image](https://user-images.githubusercontent.com/84587120/131778413-11d3a35b-6a00-4d47-ba94-efc7a8c6a603.png)
 
 33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠0°:
 
@@ -366,9 +456,19 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 
 ![image](https://user-images.githubusercontent.com/84587091/131768343-37b02729-7f80-404f-b997-c640cf9555e3.png)
 
+![image](https://user-images.githubusercontent.com/84587120/131778509-3c41f412-8b6f-41b3-a2f7-b0dd9f8834a4.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131778690-61d2ef88-6c0f-4c27-8ba0-489fd230eddb.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131778704-23eccb99-7950-4492-aa2f-b57d359a0f33.png)
+
 35. Para cada circuito de la figura 16-57 determine la incógnita.
 
 ![image](https://user-images.githubusercontent.com/84587091/131768364-a61990c9-233b-4913-9f58-3d0e5203b166.png)
+
+a) ![image](https://user-images.githubusercontent.com/84587120/131778854-119d9de2-e3c8-4540-bd3d-4f42d6e5418c.png)
+
+b) ![image](https://user-images.githubusercontent.com/84587120/131778884-2b6e1151-1ef3-404e-b906-5717f1a63eb0.png)
 
 16-8 Análisis de circuitos de ca por computadora
 
@@ -400,9 +500,7 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 
 BIBLIOGRAFIA.
 
-
-
-
+Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
 
 
 
