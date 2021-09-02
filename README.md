@@ -83,6 +83,8 @@ c. 5T = 80 us
 
 ![image](https://user-images.githubusercontent.com/84587120/131762563-8d450215-116b-4019-8002-553029160856.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131786628-c7bceef0-00cb-4ae0-a453-b0563fe73b63.png)
+
 11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico
 a pico de la figura 15-78?
 
