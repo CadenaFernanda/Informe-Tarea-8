@@ -221,7 +221,11 @@ Utilice Multisim o PSpice para lo siguiente:
 
 Ejercicos cápitulo 16: 
 
+16-1 Repaso de números complejos
 
+1. Convierta cada uno de los siguientes números a forma polar:
+a. 5 + j12  c. -8 + j15
+b. 9 - j6   d. -10 - j4
 
 
 
