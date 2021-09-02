@@ -182,9 +182,17 @@ e. 5 periodos en 20 ms
 
 a. Vm=170 V, f=60 Hz
 
+![image](https://user-images.githubusercontent.com/84587120/131870230-1d018cf5-6624-4398-80a6-0cc1a2362da1.png)
+
 b. Im = 40 uA, T = 10 ms
 
+![image](https://user-images.githubusercontent.com/84587120/131870511-d4de2a35-f9ec-4dd7-ab0e-b36a157e919f.png)
+
 c. T = 120 us, v=10 V en t = 12 us
+
+![image](https://user-images.githubusercontent.com/84587120/131871467-730302c8-7010-4083-b2cb-621b012f400b.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131871508-72f68cbb-9b27-42a2-8ad5-e7d3c8562868.png)
 
 31. Una onda seno tiene un voltaje pico a pico de 40 V y T=50 ms. Determine
 su ecuación
