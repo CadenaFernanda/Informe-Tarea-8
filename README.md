@@ -202,6 +202,14 @@ su ecuación
 33. Dada i=47 sen 8260t mA, determine la corriente cuando t=0 s, 80, 410 y
 1200 uS.
 
+![image](https://user-images.githubusercontent.com/84587120/131873711-df036e87-586f-4481-9cad-3801c8915fb8.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131873746-a00f4675-4654-4dc0-80cf-3ce1a1705077.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131873793-2253e44e-3668-4496-badb-32b45607b76c.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131873828-1dcfacb5-e364-4a91-a28c-436d9d9daa26.png)
+
 35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la
 fase del ángulo en grados.
 
