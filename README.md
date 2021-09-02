@@ -189,8 +189,12 @@ fase del ángulo en grados.
 
 37. Dada v=5 sen(wt+45grados). Si w=20pi rad/s, ¿qué valor tiene v cuando t=20, 75 y 90 ms?
 
+![image](https://user-images.githubusercontent.com/84427371/131791263-54d479b6-dadc-4d34-9b64-629a08891915.png)
+
 39. Determine la ecuación para la forma de onda que se muestra en la figura 
 15-84.
+
+![image](https://user-images.githubusercontent.com/84427371/131791303-67d9b831-3883-44be-afbf-20131607025c.png)
 
 41. Dada v=30 sen(wt=45grados) donde w=40p rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y-23 V?
 
@@ -219,6 +223,14 @@ i=80 sen(wt-160grados)
 
 ![image](https://user-images.githubusercontent.com/84587120/131764576-cc9553b1-cde5-4014-a260-578358188961.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131791446-60e4462a-b692-4c81-9d61-120165c1144a.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791353-eb3400ae-b400-4c8e-9792-a02c005ac68b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791481-0a7f9888-41dc-45c0-92b1-45cc1384a782.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791503-a63740df-9304-423f-8555-31cd01dfc58c.png)
+
 15-8 Formas de onda de ca y valor promedio
 
 47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
@@ -235,6 +247,15 @@ d. v=20 cos 2wt
 
 ![image](https://user-images.githubusercontent.com/84587120/131764731-e349f982-9f3e-463b-b276-b205268d0d6f.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131791629-52cbfbd5-958f-4ff7-b94a-a533fe74f7a8.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791574-fc764920-e1a6-4eef-be2f-86f61a3a8d2a.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791685-5b7c6212-53cb-4ae7-801a-8b0a3ed0121b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791700-a1ee4923-c865-42f4-9f61-58ce562c540d.png)
+
+
 51. Para el circuito de la figura 15-90, e=25 sen qt V y un periodo de T=120 ms.
 
 a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
@@ -250,6 +271,8 @@ d. Determine Vprom
 53. Utilice cálculo, para encontrar el valor promedio para la figura 15-91
 
 ![image](https://user-images.githubusercontent.com/84587120/131764931-51a464a3-e0f6-4001-9be0-3a29e4d6d93b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791755-8e8715b1-ff38-4a37-8d0b-916be82744b7.png)
 
 15-9 Valores efectivos (rms)
 
@@ -268,9 +291,13 @@ d. 45-27 cos 2 wt V
 
 a. i=3+rais(2(4)) sen(wt+44grados) mA
 
+![image](https://user-images.githubusercontent.com/84427371/131791813-3497ddbd-34f3-40c2-bdb6-c80981c131a8.png)
+
 b. Voltaje v de la figura 15-92 con e=25 sen wt V
 
 ![image](https://user-images.githubusercontent.com/84587120/131765112-2b2243ce-c017-4d4d-a753-84374010ea9d.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131791866-2f5a5bcc-e660-4851-8f0d-08f3f2fa93b4.png)
 
 61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
 
