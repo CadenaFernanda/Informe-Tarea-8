@@ -211,6 +211,12 @@ fase del ángulo en grados.
 
 ![image](https://user-images.githubusercontent.com/84587120/131763495-0c3f0968-6ea7-4ffc-b722-d454090b2281.png)
 
+![image](https://user-images.githubusercontent.com/84587120/131880934-88c63640-1020-461a-968c-5f040ec5b604.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131880963-80d950d2-8dbe-40a0-9fe1-9b7d8424470f.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131881028-7f4c6545-fb95-43e0-80db-b3d42bf104dd.png)
+
 37. Dada v=5 sen(wt+45grados). Si w=20pi rad/s, ¿qué valor tiene v cuando t=20, 75 y 90 ms?
 
 ![image](https://user-images.githubusercontent.com/84427371/131791263-54d479b6-dadc-4d34-9b64-629a08891915.png)
