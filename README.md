@@ -152,6 +152,11 @@ f. 620 grados
 
 25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t=5 us. Determine Vm y dibuje la forma de onda.
 
+
+![image](https://user-images.githubusercontent.com/84427371/131882604-f9c8c024-ecd5-42cb-9bea-f4fe4ae829b8.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131882653-7303dcdc-5eb1-4841-8d14-64c7e7a0cc7e.png)
+
 15-6 Voltajes y corrientes como funciones del tiempo
 
 27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
