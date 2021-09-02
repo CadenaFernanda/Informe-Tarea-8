@@ -325,11 +325,19 @@ d. Determine Vprom
 
 a. Una batería de 12 V
 
+![image](https://user-images.githubusercontent.com/84587120/131888951-98c5de2a-3846-4d97-ad46-cd55372d50a1.png)
+
 b. -24 sen(wt+73grados) mA
+
+![image](https://user-images.githubusercontent.com/84587120/131888974-327a4c80-6210-4b4e-a966-e0a7bc7413cf.png)
 
 c. 10+24 sen wt V
 
+![image](https://user-images.githubusercontent.com/84587120/131889008-30f30a1e-34b7-4bb4-8bb5-ae84c486f870.png)
+
 d. 45-27 cos 2 wt V
+
+![image](https://user-images.githubusercontent.com/84587120/131889027-05612fab-66ae-4043-80c8-f14bc705cca1.png)
 
 57. Determine los valores de la raíz cuadrática media para
 
@@ -348,7 +356,15 @@ b. Voltaje v de la figura 15-92 con e=25 sen wt V
 
 ![image](https://user-images.githubusercontent.com/84587120/131765147-613bb6cb-b374-4854-aea2-8c763168cf90.png)
 
+![image](https://user-images.githubusercontent.com/84587120/131889066-398fe579-eb89-4678-b11a-bdc2bdfa9275.png)
+
+
 63. Repita el problema 62, use cálculo para manejar la porción triangular.
+
+![image](https://user-images.githubusercontent.com/84587120/131889098-8aa5b141-40c0-484b-b737-74e2f72fcf69.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131889131-81854f61-6645-4e61-879d-a3a77cef57b7.png)
+
 
 15-11 Medición de voltaje y corriente de ca
 
