@@ -235,6 +235,10 @@ fase del ángulo en grados.
 
 41. Dada v=30 sen(wt=45grados) donde w=40p rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y-23 V?
 
+![image](https://user-images.githubusercontent.com/84427371/131905348-e84a8040-8581-4b33-9353-b23f2bf9ce91.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131905377-cffe5736-1d3f-4b33-bab4-6989bd7575f5.png)
+
 15-7 Introducción a los fasores
 
 43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
@@ -243,18 +247,23 @@ fase del ángulo en grados.
 a. v=100 sen wt
 
 i=80 sen(wt+20grados)
+
+![image](https://user-images.githubusercontent.com/84427371/131905410-695adda2-4800-4af8-9fb1-bf7e47e1d6b5.png)
+
  
 b. v1=200 sen(wt-30grados) 
 
 v2=150 sen(wt-30grados)
 
+![image](https://user-images.githubusercontent.com/84427371/131905438-df5d32e3-f7b4-444e-9acb-297e1b26eb35.png)
+
+
 c. i1=40 sen(wt+30grados)
 
 i2=50 sen(wt-20grados)
 
- d. v=100 sen(wt+140grados)
- 
-i=80 sen(wt-160grados) 
+![image](https://user-images.githubusercontent.com/84427371/131905456-08c228b4-745d-47e2-9f0e-2009286c3dc8.png)
+
 
 45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
