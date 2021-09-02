@@ -219,21 +219,7 @@ Utilice Multisim o PSpice para lo siguiente:
 
 67. Dibuje la forma de onda del problema 41. Use el cursor para determinar los tiempos en los cuales v alcanza 0 V, 23 V y -23V.
 
-
-
-
-
-
 Ejercicos cápitulo 16: 
-
-
-
-
-
-
-
-
-
 
 
 
