@@ -224,7 +224,7 @@ Utilice Multisim o PSpice para lo siguiente:
 
 
 
-Ejercicos cápitulo 16:
+Ejercicos cápitulo 16: 
 
 
 
