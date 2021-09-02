@@ -11,6 +11,14 @@ OBJETIVOS:
  
 # Objetivos especificos :
 
+* Poner en práctica cada uno de los fundamentos de las corrientes alternas.
+
+* Investigar más a fondo la frecuencia, periodo, amplitud y valor pico.
+
+* Dar a conocer conceptos como los de Impedancia y circuitos R, L y C.
+
+* Realizar ejercicios para tener una idea más clara del tema. 
+
 # Marco Teórico: 
 
  # CAPITULO 15
@@ -373,22 +381,25 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 41. Para el circuito del problema 39, grafique la magnitud de la corriente contra la frecuencia desde f = 1 Hz hasta f = 20 Hz. Mida la corriente a 10 Hz y verifique con su calculadora.
 
 
-# LinK
+# LinK: 
 
 
+# Conclusiones: 
 
-# Conclusiones
+* Mediante las prácticas que realizamos, estudiamos diversos fenómenos y particularidades de la Corriente Alterna, primero en relación con Corriente Continua, y luego mediante sus diversas formas de conexión que para este tipo de corriente existen.
 
+* Todo la teórica fue verificada mediante diversas leyes y puesta en práctica.
 
-
-
-
-
+* El uso de números complejos nos ayudó mucho con los cálculos de los circuitos estudiados.
+* 
 # Recomendaciones
 
+* Dominar la teoría con el fin de poder estar seguros de si los resultados que se van obteniendo son razonables.
 
+* Si es posible tener en cuenta las leyes que estudiamos anteriormente para no tener confusión y evitar errores.
 
 BIBLIOGRAFIA.
+
 
 
 
