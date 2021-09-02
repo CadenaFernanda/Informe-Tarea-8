@@ -272,11 +272,19 @@ i=80 sen(wt-160grados)
 
 a. i=5 sen wt
 
+![image](https://user-images.githubusercontent.com/84587120/131883291-f93998a7-93a3-44e8-a7bc-bcfcc835d475.png)
+
 b. i=40 cos wt
+
+![image](https://user-images.githubusercontent.com/84587120/131883323-dc7a53de-7293-4201-8f9f-b8651ab8e597.png)
 
 c. v=400 sen(wt + 30 grados)
 
+![image](https://user-images.githubusercontent.com/84587120/131883347-7a7329a4-5a01-4663-bad0-4f0dc7f6e7ea.png)
+
 d. v=20 cos 2wt
+
+![image](https://user-images.githubusercontent.com/84587120/131883403-fce35335-a7a4-4279-bbcb-83db5f021669.png)
 
 49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
 
