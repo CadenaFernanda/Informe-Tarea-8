@@ -2,17 +2,26 @@
 
 # Informe-Tarea-8
 
-Marco Teórico: 
+INFORME DE TAREA
 
- CAPITULO 15
+OBJETIVOS:
+
+# Obetivo General:
+ El objetivo general de la tarea 8, es comprender cada uno de los conceptos que forman parte de los temas “Elementos R, L y C, concepto de impedancia y Fundamentos de CA”, identificar su respectiva reseña historica, conceptos, elementos que son relevantes en su aprendizaje y sobre todo saber realizar calculos referentes a la frecuencia, periodo, amplitud, valores efectivos, valor pico entre otros subtemeas que forman parte de esta tarea.
+ 
+# Objetivo especifico :
+
+# Marco Teórico: 
+
+ # CAPITULO 15
  
 ![image](https://user-images.githubusercontent.com/84427371/131609345-ee0ca632-8744-4948-a0be-2c93165e8d51.png)
 
-CAPITULO 16
+# CAPITULO 16
 
 ![image](https://user-images.githubusercontent.com/84587120/131600217-9530b13b-c736-47b7-b11c-7c1cce82b2f3.png)
 
-Ejercicos cápitulo 15: 
+# Ejercicos cápitulo 15: 
 
 15-1 Introducción
 
@@ -364,9 +373,22 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 41. Para el circuito del problema 39, grafique la magnitud de la corriente contra la frecuencia desde f = 1 Hz hasta f = 20 Hz. Mida la corriente a 10 Hz y verifique con su calculadora.
 
 
+# LinK
 
 
 
+# Conclusiones
+
+
+
+
+
+
+# Recomendaciones
+
+
+
+BIBLIOGRAFIA.
 
 
 
