@@ -106,6 +106,8 @@ a pico de la figura 15-78?
 
 17. Dado el voltaje v=Vm sen a. Si Vm=240 V, ¿qué valor tiene v cuando alfa=37grados?
 
+![image](https://user-images.githubusercontent.com/84587120/131785950-abaed4a0-0cb6-4e83-8f0b-f7292a6a39e7.png)
+
 19. Un voltaje sinusoidal tiene un valor de 50 V cuando alfa=150grados. ¿Qué valor
 tiene Vm?
 
