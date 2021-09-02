@@ -35,9 +35,15 @@ OBJETIVOS:
 
 1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?
 
+
+![image](https://user-images.githubusercontent.com/84427371/131784256-6b3dbd40-a207-4519-8e96-c5c827fa2bc8.png)
+
 15-2 Generación de voltajes de ca
 
 3. a. ¿Qué significa valor instantáneo?
+
+
+![image](https://user-images.githubusercontent.com/84427371/131784318-b36ba450-ce6e-422f-a66e-d66523d7d6be.png)
 
 
 b. Para la figura 15-74, determine los voltajes instantáneos en t  0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
@@ -51,12 +57,27 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t  0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/84587120/131762431-bd88cad7-264c-4c0c-81e3-544a86eacad7.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131784387-e45dcb8b-6fdc-4c1d-978c-c87ac6c3e9d9.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131784419-83d532b8-6364-4cd2-8e8a-193c10c7adf9.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131784443-f8141422-590c-4795-92e1-42d305917757.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131784465-7c33857f-addc-4a8d-98e8-728337690954.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131784476-8f101e83-8e58-4b94-9b82-80e20ee4973b.png)
+
+
+
 15-4 Frecuencia, periodo, amplitud y valor pico
 
 7. Para cada uno de los siguientes, determine la frecuencia:
 a. T = 0.5 s
 b. T = 100 s 
 c. 5T = 80 us
+
+![image](https://user-images.githubusercontent.com/84427371/131784499-1c755cb6-b95d-4210-bf57-b4fb8dee8ecd.png)
+
 
 9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
 
@@ -65,12 +86,19 @@ c. 5T = 80 us
 11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico
 a pico de la figura 15-78?
 
+![image](https://user-images.githubusercontent.com/84427371/131784532-5eadf243-b64e-471f-b1d5-6f785ba2f8b7.png)
+
 ![image](https://user-images.githubusercontent.com/84587120/131762763-1e104226-951e-4eb5-9430-8fbe04c9bb0b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131784547-65d5381a-7dd2-496f-90ea-7a7a4cd62413.png)
 
 ![image](https://user-images.githubusercontent.com/84587120/131762783-9c8be1a5-42d3-4c45-8b74-d3328c2e156b.png)
 
 
 13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+![image](https://user-images.githubusercontent.com/84427371/131784592-84071299-56b7-4b4f-be13-19c6b1cc5caf.png)
+
 
 15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1=0.25T2 y f1=10 kHz, ¿cuáles son los valores de T1, T2 y f2?
 
@@ -262,11 +290,19 @@ d. -10 - j4
 
 a. 4 + j6
 
+![image](https://user-images.githubusercontent.com/84427371/131784658-cf3a047f-f3e3-4c8a-bad3-b8fb6671e537.png)
+
 b. j4
+
+![image](https://user-images.githubusercontent.com/84427371/131784673-e3ec66f7-f224-4c5a-b93f-8b5fa5e9af0c.png)
 
 c. 6∠-90°
 
+![image](https://user-images.githubusercontent.com/84427371/131784681-71c23c10-f1d5-45a8-a8a3-7dacef925766.png)
+
 d. 10∠135°
+
+![image](https://user-images.githubusercontent.com/84427371/131784695-963eac3e-c142-48e4-a946-7213aeea59b0.png)
 
 5. Exprese sus respuestas en forma rectangular.
 
