@@ -113,6 +113,8 @@ a pico de la figura 15-78?
 19. Un voltaje sinusoidal tiene un valor de 50 V cuando alfa=150grados. ¿Qué valor
 tiene Vm?
 
+![image](https://user-images.githubusercontent.com/84587120/131787156-394e37fd-dde5-408f-9520-f68616f83427.png)
+
 21. Convierta los siguientes ángulos de grados a radianes:
 
 
