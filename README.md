@@ -97,7 +97,7 @@ a pico de la figura 15-78?
 
 13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
 
-![image](https://user-images.githubusercontent.com/84427371/131784592-84071299-56b7-4b4f-be13-19c6b1cc5caf.png)
+![image](https://user-images.githubusercontent.com/84427371/131785281-74d97703-feca-4b81-a2a8-684004528f83.png)
 
 
 15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1=0.25T2 y f1=10 kHz, ¿cuáles son los valores de T1, T2 y f2?
