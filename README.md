@@ -146,6 +146,10 @@ f. 620 grados
 
 23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t=30, 75, 140 y 315 ms.
 
+![image](https://user-images.githubusercontent.com/84427371/131788811-b9dd9171-8270-4f34-bde5-4639c20e54fb.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131788876-6267caa3-a927-4a3a-85b9-43e98da1a866.png)
+
 25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t=5 us. Determine Vm y dibuje la forma de onda.
 
 15-6 Voltajes y corrientes como funciones del tiempo
