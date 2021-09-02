@@ -224,17 +224,144 @@ Ejercicos cápitulo 16:
 16-1 Repaso de números complejos
 
 1. Convierta cada uno de los siguientes números a forma polar:
-a. 5 + j12  c. -8 + j15
-b. 9 - j6   d. -10 - j4
 
+a. 5 + j12
 
+b. 9 - j6 
 
+c. -8 + j15
 
+d. -10 - j4
 
+3. Grafique cada uno de los siguientes valores en el plano complejo:
 
+a. 4 + j6
 
+b. j4
 
+c. 6∠-90°
 
+d. 10∠135°
+
+5. Exprese sus respuestas en forma rectangular.
+
+![image](https://user-images.githubusercontent.com/84587091/131766645-b8b52608-9f48-41aa-b9e1-adae8a187973.png)
+
+7. Reduzca cada corriente siguiente a forma polar:
+
+![image](https://user-images.githubusercontent.com/84587091/131766673-7d270a81-c078-46d9-b742-4d8704a28bc1.png)
+
+9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+
+![image](https://user-images.githubusercontent.com/84587091/131766718-437471e0-6338-426b-b15a-07534f5522db.png)
+
+11. Repita el problema 10 para v = e1 - e2.
+
+13. Para la figura 16-50, i1 = 25 sen (wt + 36°) mA e i2 = 40 cos (wt - 10°) mA.
+
+![image](https://user-images.githubusercontent.com/84587091/131766928-1281707f-3086-4af2-971a-a05bbb1188b0.png)
+
+a. Determine los fasores I1, I2 e IT.
+
+b. Determine la ecuación para iT en el dominio del tiempo.
+
+15. Para la figura 16-18, i1 = 7 sen wt mA, i2 = 4 sen (wt - 90°) mA e i3 = 6 sen (wt + 90°) mA.
+
+a. Determine los fasores I1, I2, I3 e IT
+
+b. Determine la ecuación para iT en el dominio del tiempo.
+
+17. Para la figura 16-52, R = 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+
+![image](https://user-images.githubusercontent.com/84587091/131767739-05f5b2ba-5223-4d3b-af63-45796ef91943.png)
+
+a. v = 120 sen wt V, i = _____
+
+b. v = 120 sen (wt + 27°) V, i = _____
+
+c. i = 17 sen (wt - 56°) mA, v = _____
+
+d. i = -17 cos (wt - 67°) uA, v = _____
+
+19. Dos resistores R1 = 10 kΩ y R2 = 12.5 kΩ están en serie. Si i = 14.7 sen (qt + 39°) mA,
+
+a. ¿Cuánto valen vR1 y vR2?
+
+b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
+
+21. Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
+
+![image](https://user-images.githubusercontent.com/84587091/131767712-f3afd9f7-7be5-4fca-990a-5b34acf12e34.png)
+
+a. vL = 10 sen (qt + 60°) V, iL = _____
+
+b. vL = 10 sen (qt - 15°) V, iL = _____
+
+c. iL = 5 cos (qt - 60°) A, vL = _____
+
+d. iL = 5 sen (qt + 10°) A, vL = _____
+
+23. Para la figura 16-53, e = 100 sen qt y L = 0.5 H. Determine iL a. . .
+
+![image](https://user-images.githubusercontent.com/84587091/131767692-1d25091c-a73e-413b-a8f9-072705e0f18a.png)
+
+a. 60 Hz 
+
+b. 1000 Hz 
+
+c. 500 rad/s
+
+25. Para la figura 16-53, si
+
+![image](https://user-images.githubusercontent.com/84587091/131767692-1d25091c-a73e-413b-a8f9-072705e0f18a.png)
+
+a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?
+
+b. iL = 250 sen (wt + 40°) uA, vL = 40 sen (wt + v) V, y f = 500 kHz, ¿cuál es el valor de L y v?
+
+27. ¿Cuál es la reactancia de un capacitor de 5 uF a. . .
+
+a. 60 Hz 
+
+b. 1000 Hz 
+
+c. 500 rad/s
+
+29. Para la figura 16-54, C = 50 uF.
+
+![image](https://user-images.githubusercontent.com/84587091/131768060-0d9bed25-202b-4851-857d-9d63107c5d8e.png)
+
+a. vC = 100 sen377t V, ¿cuánto vale iC?
+
+b. iC = 10 sen(2π x 400t - 60°), ¿cuánto vale vC?
+
+16-7 El concepto de impedancia
+
+31. Determine la impedancia de cada elemento de circuito de la figura 16-55.
+
+![image](https://user-images.githubusercontent.com/84587091/131768291-7387ea92-7d70-48ce-8bc6-f60031dabee8.png)
+
+33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠0°:
+
+a. Determine cada voltaje en forma fasorial.
+
+b. Exprese cada voltaje en forma del dominio del tiempo.
+
+![image](https://user-images.githubusercontent.com/84587091/131768343-37b02729-7f80-404f-b997-c640cf9555e3.png)
+
+35. Para cada circuito de la figura 16-57 determine la incógnita.
+
+![image](https://user-images.githubusercontent.com/84587091/131768364-a61990c9-233b-4913-9f58-3d0e5203b166.png)
+
+16-8 Análisis de circuitos de ca por computadora
+
+37. Construya el circuito de la figura 16-58 en la pantalla. Use la fuente de ca de Sources Parts y el amperímetro de Indicators Parts. Haga doble clic en el símbolo del amperímetro y establezca Mode en AC. Dé clic en el interruptor ON/OFF para energizar el circuito. Compare la lectura medida con el valor teórico.
+
+![image](https://user-images.githubusercontent.com/84587091/131768427-40f968ef-0727-4fe2-826f-49d8594179d8.png)
+
+39. Construya el circuito de la figura 16-53 en la pantalla. Use una fuente de 100 V∠0°, L = 0.2 H, y f = 50 Hz. Resuelva para la corriente IL (magnitud y ángulo). Véase la nota abajo.
+
+41. Para el circuito del problema 39, grafique la magnitud de la corriente contra la frecuencia desde f = 1 Hz hasta f = 20 Hz. Mida la corriente a 10 Hz y verifique con su calculadora.
 
 
 
