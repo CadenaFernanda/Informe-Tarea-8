@@ -122,15 +122,27 @@ tiene Vm?
 
 a. 10 grados
 
+![image](https://user-images.githubusercontent.com/84587120/131787938-f6772941-93db-4ef1-b860-ccd50eeeb1ab.png)
+
 b. 25 grados
+
+![image](https://user-images.githubusercontent.com/84587120/131787962-c620dcb1-b5b3-4226-9ebb-82124ccca5b3.png)
 
 c. 80 grados
 
+![image](https://user-images.githubusercontent.com/84587120/131787976-f20f7bbc-501d-4b7b-bfb0-87559190370d.png)
+
 d. 150 grados
+
+![image](https://user-images.githubusercontent.com/84587120/131787992-e7676d8c-f167-470e-848d-d250019fc9e0.png)
 
 e. 350 grados
 
+![image](https://user-images.githubusercontent.com/84587120/131788007-9ecfe877-041c-4c72-95a0-91595ff97d71.png)
+
 f. 620 grados
+
+![image](https://user-images.githubusercontent.com/84587120/131788026-9f4b5e27-b6da-4646-ab86-c92bd2969cb4.png)
 
 23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t=30, 75, 140 y 315 ms.
 
