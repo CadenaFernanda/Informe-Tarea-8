@@ -372,6 +372,10 @@ b. Voltaje v de la figura 15-92 con e=25 sen wt V
 
 15-12 Análisis de circuitos por compu
 
+![image](https://user-images.githubusercontent.com/84587120/131890998-31eb75c8-d0f9-4220-95b1-651143c5cd39.png)
+
+![image](https://user-images.githubusercontent.com/84587120/131891039-5f8593ef-1c18-4cd8-9524-44948f2f9b55.png)
+
 Utilice Multisim o PSpice para lo siguiente:
 
 67. Dibuje la forma de onda del problema 41. Use el cursor para determinar los tiempos en los cuales v alcanza 0 V, 23 V y -23V.
