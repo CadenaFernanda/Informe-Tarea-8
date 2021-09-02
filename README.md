@@ -197,6 +197,8 @@ c. T = 120 us, v=10 V en t = 12 us
 31. Una onda seno tiene un voltaje pico a pico de 40 V y T=50 ms. Determine
 su ecuación
 
+![image](https://user-images.githubusercontent.com/84587120/131872951-f30ef6a2-8dbe-4dc6-9cbd-05e0d6c47d5d.png)
+
 33. Dada i=47 sen 8260t mA, determine la corriente cuando t=0 s, 80, 410 y
 1200 uS.
 
