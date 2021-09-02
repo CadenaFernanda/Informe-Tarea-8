@@ -103,6 +103,8 @@ a pico de la figura 15-78?
 
 
 15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1=0.25T2 y f1=10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+16. 
+![image](https://user-images.githubusercontent.com/84427371/131787732-4f10d526-a48d-4bad-b0b4-78864a3ba606.png)
 
 15-5 Relaciones angular y gráfica paras las ondas seno
 
