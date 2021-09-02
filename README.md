@@ -159,13 +159,23 @@ f. 620 grados
 
 a. T=100 ns
 
+![image](https://user-images.githubusercontent.com/84587120/131792356-00f2fd29-c097-42f2-83ef-28093e1dc809.png)
+
 b. f=30 Hz
+
+![image](https://user-images.githubusercontent.com/84587120/131792394-8f11c79e-c94d-4114-a139-7116adda72f9.png)
 
 c. 100 ciclos en 4 s
 
+![image](https://user-images.githubusercontent.com/84587120/131792437-f9863a4f-a3c1-4541-9d01-b62a7b5a8848.png)
+
 d. periodo=20 ms
 
+![image](https://user-images.githubusercontent.com/84587120/131792476-c119d338-4523-41f9-8cb3-753473a8167b.png)
+
 e. 5 periodos en 20 ms
+
+![image](https://user-images.githubusercontent.com/84587120/131792502-3a7766f9-6e3f-43f0-b8be-fd216c854c34.png)
 
 29. Determine las ecuaciones para las ondas seno con lo siguiente:
 
