@@ -370,11 +370,11 @@ b. Voltaje v de la figura 15-92 con e=25 sen wt V
 
 65. Repita el problema 64 con un medidor de rms verdadero.
 
-15-12 Análisis de circuitos por compu
-
 ![image](https://user-images.githubusercontent.com/84587120/131890998-31eb75c8-d0f9-4220-95b1-651143c5cd39.png)
 
 ![image](https://user-images.githubusercontent.com/84587120/131891039-5f8593ef-1c18-4cd8-9524-44948f2f9b55.png)
+
+15-12 Análisis de circuitos por compu
 
 Utilice Multisim o PSpice para lo siguiente:
 
