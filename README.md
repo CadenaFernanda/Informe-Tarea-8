@@ -50,6 +50,8 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t  0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/84587120/131762408-ecdd03ca-c79c-4871-bb3a-ec379f3cd5de.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131884646-61246e14-08d8-4779-8dae-c4b79aff02f6.png)
+
 
 15-3 Convenciones de voltaje y corriente para ca
 
@@ -613,6 +615,7 @@ b) ![image](https://user-images.githubusercontent.com/84587120/131778884-2b6e115
 
 # LinK: 
 
+https://youtu.be/yhmFF4d8Anc
 
 # Conclusiones: 
 
