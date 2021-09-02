@@ -9,7 +9,7 @@ OBJETIVOS:
 # Obetivo General:
  El objetivo general de la tarea 8, es comprender cada uno de los conceptos que forman parte de los temas “Elementos R, L y C, concepto de impedancia y Fundamentos de CA”, identificar su respectiva reseña historica, conceptos, elementos que son relevantes en su aprendizaje y sobre todo saber realizar calculos referentes a la frecuencia, periodo, amplitud, valores efectivos, valor pico entre otros subtemeas que forman parte de esta tarea.
  
-# Objetivo especifico :
+# Objetivos especificos :
 
 # Marco Teórico: 
 
