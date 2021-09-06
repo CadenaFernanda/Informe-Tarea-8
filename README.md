@@ -383,11 +383,6 @@ b. Voltaje v de la figura 15-92 con e=25 sen wt V
 
 ![image](https://user-images.githubusercontent.com/84587120/131891039-5f8593ef-1c18-4cd8-9524-44948f2f9b55.png)
 
-15-12 Análisis de circuitos por compu
-
-Utilice Multisim o PSpice para lo siguiente:
-
-67. Dibuje la forma de onda del problema 41. Use el cursor para determinar los tiempos en los cuales v alcanza 0 V, 23 V y -23V.
 
 Ejercicos cápitulo 16: 
 
@@ -630,16 +625,6 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 a) ![image](https://user-images.githubusercontent.com/84587120/131778854-119d9de2-e3c8-4540-bd3d-4f42d6e5418c.png)
 
 b) ![image](https://user-images.githubusercontent.com/84587120/131778884-2b6e1151-1ef3-404e-b906-5717f1a63eb0.png)
-
-16-8 Análisis de circuitos de ca por computadora
-
-37. Construya el circuito de la figura 16-58 en la pantalla. Use la fuente de ca de Sources Parts y el amperímetro de Indicators Parts. Haga doble clic en el símbolo del amperímetro y establezca Mode en AC. Dé clic en el interruptor ON/OFF para energizar el circuito. Compare la lectura medida con el valor teórico.
-
-![image](https://user-images.githubusercontent.com/84587091/131768427-40f968ef-0727-4fe2-826f-49d8594179d8.png)
-
-39. Construya el circuito de la figura 16-53 en la pantalla. Use una fuente de 100 V∠0°, L = 0.2 H, y f = 50 Hz. Resuelva para la corriente IL (magnitud y ángulo). Véase la nota abajo.
-
-41. Para el circuito del problema 39, grafique la magnitud de la corriente contra la frecuencia desde f = 1 Hz hasta f = 20 Hz. Mida la corriente a 10 Hz y verifique con su calculadora.
 
 
 # LinK: 
